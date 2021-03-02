@@ -12,3 +12,9 @@ CAD document
 # goals
 
 Create a efficient pencil sharpener model
+
+
+ # this week
+ 
+ I accomplished designing the size to fit in the pencil accuratly.
+ We are on track to complete this within the time frame.
